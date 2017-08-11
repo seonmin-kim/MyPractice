@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPractice</string>
+    <!--페이스북-->
+    <string name="facebook_app_id">903381459811718</string>
+    <string name="fb_login_protocol_scheme">fb903381459811718</string>
+    <!--카카오-->
+    <string name="kakao_app_key">3b83fbd4b4afc36c8c24309655a3b95a</string>
+</resources>
